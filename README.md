@@ -5,7 +5,7 @@ Website untuk mencatat resep masakan dengan menggunakan Local Storage
 
 Klik link untuk membuka aplikasi:
 
-  👉 
+  👉 https://widiana19.github.io/Resep-Masakanku_Widiana-Rahmadani_51423467_3IA14/
 
 👩‍💻 Author
 
